@@ -1,0 +1,5 @@
+{
+  "name": "KOI DATA EXPLORER",
+  "description": "A simple web application to visually build queries for NASA's exoplanet database, execute them, and download the results as a structured JSON file.",
+  "requestFramePermissions": []
+}
